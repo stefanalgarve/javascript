@@ -1,18 +1,18 @@
 export const data = {
   "users": [
-      {
-          "name": "Alberto",
-          "email": "alberto@gmail.com",
-          "age": 28,
-          "country": "Brazil",
-          "gender": "male"
-      },
-      {
-        "name": "Stefan",
-        "email": "stefan@gmail.com",
-        "age": 35,
-        "country": "Germany",
-        "gender": "male"
+    {
+      "name": "Alberto",
+      "email": "alberto@gmail.com",
+      "age": 28,
+      "country": "Brazil",
+      "gender": "male"
+    },
+    {
+      "name": "Stefan",
+      "email": "stefan@gmail.com",
+      "age": 35,
+      "country": "Germany",
+      "gender": "male"
     },
     {
       "name": "Andreas",
@@ -20,9 +20,9 @@ export const data = {
       "age": 33,
       "country": "Germany",
       "gender": "male"
-  }
+    }
   ],
-  
+
   "products": [
     {
       "name": "Saris blue",
