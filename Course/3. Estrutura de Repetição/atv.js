@@ -64,4 +64,3 @@ if (impares>0) {
 } else{
     console.log("Nenhum valor ímpar encontrado")
 }
-

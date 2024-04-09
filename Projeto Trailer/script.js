@@ -28,6 +28,8 @@ for (let index = 0; index < data.products.length; index++) {
 
 }
 
+
+
 const btns = document.querySelectorAll('.bntAddicionar');
 const qtd = document.querySelectorAll('.qtd');
 
