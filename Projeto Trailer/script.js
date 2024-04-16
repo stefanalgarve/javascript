@@ -25,28 +25,4 @@ for (let index = 0; index < data.products.length; index++) {
            <button class="bntAddicionar">Adicionar</button>
            </div>
         `
-
-}
-
-
-
-const btns = document.querySelectorAll('.bntAddicionar');
-const qtd = document.querySelectorAll('.qtd');
-
-btns.forEach((element, index) => { element.addEventListener('click', () => vendaDeProducts(index)) });
-console.log(btns);
-
-
-const par = document.getElementsByClassName(`p`)
-
-let cal = 10
-
-for (const p of par) {
-  p.innerHTML = cal
-    cal *= 500
-}
-
-for (let index = 0; index < array.length; index++) {
-  const element = array[index];
-  
 }

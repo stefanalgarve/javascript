@@ -29,7 +29,8 @@
 ### Checklist Aulas
 
 1. [X]  Estrutura de repetição map, find, filter...
-2. [ ]  Partir para o projeto utilizando map
+2. [X]  Partir para o projeto utilizando map
+3. [ ]  Diferenciar ARQUIVOS JS X ARQUIVOS JS DOM
 
 ### Links
 
